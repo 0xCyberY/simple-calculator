@@ -1,0 +1,54 @@
+Enter the values of a and b: 6 5
+
+Enter your choice
+ 1.Addition
+ 2.Subtraction
+ 3.Multiplication
+ 4.Divison
+ 5.Remainder
+1
+ Addition=11
+ ____________________
+ Enter the values of a and b:25 12
+
+Enter your choice
+ 1.Addition
+ 2.Subtraction
+ 3.Multiplication
+ 4.Divison
+ 5.Remainder
+2
+ Substraction=13
+ _____________________
+ Enter the values of a and b: 25 5
+
+Enter your choice
+ 1.Addition
+ 2.Subtraction
+ 3.Multiplication
+ 4.Divison
+ 5.Remainder
+3
+ Multiplication=125
+ ______________________
+ Enter the values of a and b: 26 3
+
+Enter your choice
+ 1.Addition
+ 2.Subtraction
+ 3.Multiplication
+ 4.Divison
+ 5.Remainder
+4
+ Divide=8
+ __________________________
+ Enter the values of a and b:85 6
+
+Enter your choice
+ 1.Addition
+ 2.Subtraction
+ 3.Multiplication
+ 4.Divison
+ 5.Remainder
+5
+ Remainder=1
